@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:seniorproject="http://schemas.android.com/apk/res-auto" >
+
+	<item
+	    android:id="@+id/new_item"
+	    android:icon="@drawable/ic_action_new"
+	    android:title="@string/action_new"
+	    seniorproject:showAsAction="ifRoom" />
+
+</menu>

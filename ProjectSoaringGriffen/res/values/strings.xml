@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">Project Soaring Griffen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="my_project">My\nProject:</string>
+    <string name="list_button">Log</string>
+    <string name="hour_text">hours</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="action_new">New Item</string>
+    <string name="list_image">Log Entry Image</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_new_entry">NewEntryActivity</string>
+    <string name="action_new_accept">Save</string>
+    <string name="action_new_cancel">Cancel</string>
+    <string name="click_to_select">Click To Select</string>
+    <string name="start_prompt">"Start:  "</string>
+    <string name="end_prompt">"End:  "</string>
+    <string name="done">Done</string>
+    <string name="title_activity_view_entry">ViewEntryActivity</string>
+    <string name="action_delete">Delete Entry</string>
+    <string name="action_email">Email Entry</string>
+    <string name="time_hint">Input for Date and Time</string>
+    <string name="image_desc">Don\'t be sad, be Glad!</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_camera_preview">CameraPreview</string>
+    <string name="title_activity_camera_view">CameraView</string>
+
+</resources>
