@@ -16,7 +16,8 @@ public class ResizeBitmap {
 			BitmapFactory.decodeStream(new FileInputStream(f), null, o);
 
 			// The new size we want to scale to
-			final int REQUIRED_SIZE = 200;
+			int size = 200;
+			int REQUIRED_SIZE = size;
 
 			// Find the correct scale value. It should be a power of 2.
 			int width_tmp = o.outWidth, height_tmp = o.outHeight;
